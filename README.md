@@ -67,7 +67,7 @@ Focusing only on sensitivity means we minimize false negatives. This means there
 
 Focusing only on specificity means we minimize false positives. This means there will be few posts we incorrectly predict to be roadtrip, but more posts we incorrectly predict to be solotravel.
 
-    As we are only gathering features that relate to the same topic and not have any health implications or other serious implication, we can focus on improving our accuracy score instead.
+   As we are only gathering features that relate to the same topic and not have any health implications or other serious implication, we can focus on improving our accuracy score instead.
 
 - Removing some words that overlap in both classification would certainly help improve accuracy.
 - An update of new posts might need to be gathered on a daily basis for a certain period of time to ensure lasting results.
